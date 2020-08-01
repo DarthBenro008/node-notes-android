@@ -1,10 +1,8 @@
 package com.benrostudios.node_notes.data.network.service
 
-import com.benrostudios.node_notes.data.model.NotesBean
 import com.benrostudios.node_notes.data.model.User
 import com.benrostudios.node_notes.data.network.response.LoginResponse
 import com.benrostudios.node_notes.data.network.response.RegistrationResponse
-import com.benrostudios.node_notes.utils.Constants
 import com.benrostudios.node_notes.utils.Constants.BASE_URL
 import retrofit2.Response
 import retrofit2.Retrofit
